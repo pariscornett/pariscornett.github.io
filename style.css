@@ -1,0 +1,22 @@
+h1 {
+    text-align:center;
+    background:seagreen;
+    font:#333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:100px;
+    top:0px;
+}
+
+.main {
+    background:cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float:left;
+    width: 50%;
+}
+
+.secondary {
+    background: rosybrown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float:right;
+    width:50%;
+}
